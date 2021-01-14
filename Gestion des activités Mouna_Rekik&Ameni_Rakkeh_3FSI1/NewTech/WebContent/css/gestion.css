@@ -1,0 +1,11 @@
+.gestion
+{
+	margin:auto;
+	display:flex;
+ flex-direction:column;
+ margin-top:200px;
+}
+button[type=submit]
+{
+	width:900px;
+}

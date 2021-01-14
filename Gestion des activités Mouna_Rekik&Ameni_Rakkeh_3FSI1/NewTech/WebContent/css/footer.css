@@ -1,0 +1,25 @@
+
+body {
+	
+  
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+
+}
+
+footer
+{
+	margin-top:auto;
+	margin:ayto;
+
+}
+p,a
+{
+	color:white;
+	
+}
+.foot
+{
+	margin-left:70px;
+}

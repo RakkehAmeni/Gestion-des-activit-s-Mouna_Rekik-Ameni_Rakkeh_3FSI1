@@ -1,0 +1,31 @@
+  
+
+      .myform{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    width:650px;
+    margin-top: 100px;
+     margin-bottom: 100px;
+    margin-left:-60px;
+    height: 700px;
+     }
+    .f1
+    {margin-left:50px;
+    margin-top: 30px;
+    }
+    button
+    
+    {width:200px;
+    margin-left:100px;
+    }

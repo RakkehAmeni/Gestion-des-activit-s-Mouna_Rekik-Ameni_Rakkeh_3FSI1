@@ -1,0 +1,85 @@
+
+   
+
+      .myform{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    width: 500px;
+    margin-top: 150px;
+    height: 400px;
+     }
+     .tx-tfm{
+     text-transform:uppercase;
+     }
+     .mybtn{
+     border-radius:50px;
+          margin-top: 50px;
+    background-color:black;
+    border: black;
+    position: relative;
+    width:250px;
+     margin-left: 100px;
+     }
+     .mybtn:hover
+     {
+        background-color: rgb(56, 56, 56);
+        border: rgb(56, 56, 56);
+  }
+     .mybtn:focus
+     {
+        background-color: rgb(56, 56, 56);
+        border: rgb(56, 56, 56);
+  }
+     
+    
+    
+     .login-or {
+     position: relative;
+     color: #aaa;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     }
+     
+
+     
+     
+
+
+/* Demo styling  */
+
+body {
+	
+  background:rgba(52, 58, 64,0.4);
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+
+}
+
+footer
+{
+	margin-top:auto;
+
+}
+.foot
+{
+	margin-left:70px;
+}
+p,a
+{
+	color:white;
+	
+}
